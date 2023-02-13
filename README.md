@@ -4,6 +4,6 @@
 
 ## 致谢
 
-笔者是学习 [左程云老师](https://github.com/algorithmzuo) 的课程搭建的算法知识体系，刷题过程中受益匪浅，在此致谢。
+笔者是学习 [左程云老师](https://github.com/algorithmzuo) 的课程搭建的算法知识体系，这份`体系`给了我很大的帮助，在此致谢。
 
 
